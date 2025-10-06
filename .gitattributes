@@ -1,5 +1,0 @@
-try:
-    ika = int(input("Anna ikäsi: "))
-    print(f"Olet {ika} vuotta vanha.")
-except ValueError:
-    print("Virhe: Syötäthän numeron.")
