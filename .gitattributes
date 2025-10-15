@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# ika_ohjelma.py
+
+ika = input("Anna ikäsi: ")
+print("Sinun ikäsi on", ika)
